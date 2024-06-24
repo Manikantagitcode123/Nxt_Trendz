@@ -1,0 +1,25 @@
+.productsaddcard {
+  height: 80vh;
+  width: 100vw;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.para {
+  font-size: 10px;
+}
+.btn12 {
+  background-color: aqua;
+  border-radius: 15px;
+  align-self: center;
+  width: 100px;
+  height: 30px;
+}
+.formdata {
+  display: flex;
+  flex-direction: column;
+}
+.heading {
+  color: #1fcbde;
+}
